@@ -1,0 +1,31 @@
+
+h1, h2, h3, p, img, figure, figcaption, form, section{
+    text-align: center;
+}
+
+body{
+    background-color: dimgrey;
+}
+
+h1, h2, h3, p, a{
+    color: rgb(232, 232, 232);
+}
+
+.lists{
+    background-image: url(https://cdn.wallpapersafari.com/80/75/Ct09Uj.jpg);
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.a {
+    margin-left: auto;
+    margin-right: auto;
+ width: 50%;
+ background-image: url(https://img.freepik.com/free-vector/construction-with-black-yellow-stripes_1017-30755.jpg);
+    color: aliceblue;
+}
+
+.front{
+ 
+}
