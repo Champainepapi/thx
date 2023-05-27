@@ -1,0 +1,101 @@
+
+h1, h2, h3, p, img, figure, form, section, figcaption{
+    text-align: center;
+}
+
+body{
+    background-image:url(https://static.vecteezy.com/system/resources/previews/002/223/687/original/natural-black-marble-texture-for-skin-tile-wallpaper-luxurious-background-for-design-art-work-free-photo.jpg);
+    background-size: fill;
+    max-width: 100%;
+    max-height: 100%;   
+    font-family: sans-serif;
+}
+
+h1, h2, h3, p, a{
+    color: rgb(194, 165, 137);
+}
+
+.lists{
+    background-image: url(https://66.media.tumblr.com/3d42a6c21d93b657d7215a137cb9bef9/tumblr_ml7nn6pfOn1s8hnhko1_250.gif);
+    width: 100%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.a {
+    margin-left: auto;
+    margin-right: auto;
+      width: 50%;
+ background-image: url(https://img.freepik.com/free-vector/construction-with-black-yellow-stripes_1017-30755.jpg);
+    color: aliceblue;
+}
+
+.front{
+ 
+}
+
+
+.tab  h1{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.tab1{
+    text-align: left;
+    width: 12%;
+    margin-left: -170px;
+}
+
+.tab2{
+    text-align: right;
+    margin-right: -205px;
+    width: 20%;
+}
+
+.tab3{
+    text-align: right;
+    margin-right:-250px;
+    width: 18%;
+}
+
+ul{
+    color:rgb(176, 150, 132);
+}
+
+h1{
+    font-size:2vw;
+}
+
+a:hover{
+    color:antiquewhite;
+}
+
+a:active{
+color:antiquewhite;
+}
+
+hr{
+    height: .2vw;
+    background-color: rgb(249, 249, 249);
+    border-color: rgb(244, 244, 244);
+}
+
+.Memorial{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
+.look1{ 
+ margin-left: auto;
+ margin-right: auto;
+ max-width: 100%;
+}
+
+.mem{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}

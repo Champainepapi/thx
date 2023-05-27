@@ -1,0 +1,39 @@
+<svg version="1.1" viewBox="0 0 2048 1536" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <image width="2048" height="1536" preserveAspectRatio="none" xlink:href="drake-albums.html"/>
+  <path d="m29.912 10.479 448.69-1.5048 2.9912 489.06-450.18 1.5048z" style="fill-opacity:0;stroke-opacity:0"/>
+ </g>
+ <g>
+  <path d="m541.41 10.469 451.68 2.9912 1.4956 484.58h-453.17z" style="fill-opacity:.046218;stroke-opacity:0"/>
+ </g>
+ <g>
+  <path d="m1054.4 10.469 453.17 1.4956 2.9912 484.58-457.66 1.4956z" style="fill-opacity:.046218;stroke-opacity:0"/>
+ </g>
+ <g>
+  <path d="m1565.9 10.469 456.16 1.4956 1.4957 484.58h-460.65z" style="fill-opacity:.046218;stroke-opacity:0"/>
+ </g>
+ <g>
+  <path d="m28.417 524.96h451.68l2.9912 486.08-450.18-2.9913z" style="fill-opacity:.046218;stroke-opacity:0"/>
+ </g>
+ <g>
+  <path d="m542.91 523.47 448.69 1.4956 2.9912 489.07-454.67-5.9825z" style="fill-opacity:.046218;stroke-opacity:0"/>
+ </g>
+ <g>
+  <path d="m1048.4 521.97 456.16 4.4868 2.9913 486.08-453.17-1.4956z" style="fill-opacity:.046218;stroke-opacity:0"/>
+ </g>
+ <g>
+  <path d="m1564.4 523.47 451.68 1.4956 8.9737 489.07-462.15-1.4956z" style="fill-opacity:.046218;stroke-opacity:0"/>
+ </g>
+ <g>
+  <path d="m28.417 1036.5 451.68 1.4956 7.4781 486.08-460.65-1.4957z" style="fill-opacity:.046218;stroke-opacity:0"/>
+ </g>
+ <g>
+  <path d="m538.42 1035 456.16 4.4868 5.9824 484.58-462.15-1.4957z" style="fill-opacity:.046218;stroke-opacity:0"/>
+ </g>
+ <g>
+  <path d="m1048.4 1035 465.14 4.4868-1.4956 487.57-459.15-5.9825z" style="fill-opacity:.046218;stroke-opacity:0"/>
+ </g>
+ <g>
+  <path d="m1556.9 1036.5h460.65l8.9737 487.57h-465.14z" style="fill-opacity:.046218;stroke-opacity:0"/>
+ </g>
+</svg>
