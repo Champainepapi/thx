@@ -40,25 +40,26 @@ h1, h2, h3, p, a{
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
+    font-size: 3.2vw;
 }
 
 
 .tab1{
     text-align: left;
-    width: 12%;
+    width: 22%;
     margin-left: -170px;
 }
 
 .tab2{
     text-align: right;
     margin-right: -205px;
-    width: 20%;
+    width: 29%;
 }
 
 .tab3{
     text-align: right;
     margin-right:-250px;
-    width: 18%;
+    width: 30%;
 }
 
 ul{
